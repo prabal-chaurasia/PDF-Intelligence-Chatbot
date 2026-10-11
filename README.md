@@ -27,4 +27,4 @@ Python, Streamlit, LangChain, OpenAI API (gpt-4o-mini and OpenAI embeddings), Ch
 3. Create a `.env` file and add your key
    OPENAI_API_KEY=your_key_here
 4. Run the app
-   streamlit run app.py
+   streamlit run App_V1.py
